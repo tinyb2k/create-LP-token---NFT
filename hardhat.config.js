@@ -21,4 +21,11 @@ module.exports = {
          accounts: [`0x${PRIVATE_KEY}`]
       }
    }
+   // networks:{
+   //    bsctest: {
+   //       url: "https://data-seed-prebsc-1-s1.binance.org:8545",
+   //       chainId: 97,
+   //       accounts: {mnemonic: process.env.MNEMONIC}
+   //    }
+   // }
 };
